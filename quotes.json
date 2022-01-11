@@ -1,4 +1,56 @@
-  [
+[
+  {
+    "author" : "@epstsmia",
+    "quote" : "Cabeça erguida, coração aberto."
+  },
+  {
+    "author" : "@epstsmia",
+    "quote" : "Quanto mais você ama sua próprias decisões, menos precisa que os outros as amem."
+  },
+    {
+      "author" : "@epstsmia",
+      "quote" : "A mente só funciona aberta."
+    },
+    {
+      "author" : "Yoskhaz",
+      "quote" : "As piores prisões são aquelas que não têm grades. Impossível se libertar do que não percebemos que nos aprisiona."
+    },
+    {
+      "author" : "Francisco Neto/Hammed",
+      "quote" : "Incoerente é a posição de toda criatura que reclama, critica, ofende, esbraveja e que nunca se faz apta a fazer algum bem, em favor de si mesma ou dos outros."
+    },
+    {
+      "author" : "@epstsmia",
+      "quote" : "Nota mental: dar ao corpo  chance de ter calma. Lembre-se de respirar."
+    },
+    {
+      "author" : "Pema Chödrön",
+      "quote" : "A paz não é uma experiência livre de desafios, é uma experiência ampla o suficiente para incluir tudo o que surge sem se sentir sob ameaça."
+    },
+    {
+      "author" : "@epstsmia",
+      "quote" : "Selecione sabiamente o que consome em todos os sentidos"
+    },
+    {
+      "author" : "@epstsmia",
+      "quote" : "Ao invés de olhar à nossa volta e dizer que não há paz suficiente, precisamos olhar para dentro de nós e descobrir se temos ou não paz interior."
+    },
+    {
+      "author" : "@epstsmia",
+      "quote" : "A mente atenta garante que você não seja influenciada/o por aqui que não é seu"
+    },
+    {
+      "author" : "@epstsmia",
+      "quote" : "Se você não se comprometer com o que é importante para você, vai acabar se comprometendo com o que não é"
+    },
+    {
+      "author" : "Mary Oliver",
+      "quote" : "Preste atenção. Maravilhe-se. Fale a respeito."
+    },
+    {
+      "author" : "@epstsmia",
+      "quote" : "Seja uma boa companhia para si. Observe-se. Seja sincero(a)."
+    },
   {
     "author" : "Duke Ellington",
     "quote" : "Os problemas são oportunidades para se mostrar o que sabe."
@@ -179,11 +231,6 @@
   },
   {
 
-    "author" : "Richard Whiteley",
-    "quote" : "Ganharão o jogo empresas que têm como missão exceder as expectativas dos clientes"
-  },
-  {
-
     "author" : "Bill Gates",
     "quote" : "Toda empresa precisa ter gente que erra, que não tem medo de errar e que aprende com erro"
   },
@@ -193,117 +240,62 @@
     "quote" : "A confiança em si mesmo é o primeiro segredo do sucesso"
   },
   {
-
-    "author" : "Provérbio Gal",
-    "quote" : "Aquele que pretende ser um líder tem que ser uma ponte"
-  },
-  {
-
     "author" : "Peter Ducker",
     "quote" : "Sempre que se vê um empreendimento de sucesso é porque alguém antes tomou uma decisão destemida"
   },
   {
-
-    "author" : "John Tschohl",
-    "quote" : "Serviços aos clientes é uma estratégia de marketing"
-  },
-  {
-
     "author" : "Norman Vincent Peale",
     "quote" : "Muda tuas ideias e mudarás teu mundo"
   },
   {
-
-    "author" : "John Kao",
-    "quote" : "Sua tarefa como líder é criar uma atmosfera que transforme o antagonismo em energia criativa"
-  },
-  {
-
-    "author" : "John Tschohl",
-    "quote" : "A publicidade traz os clientes até a porta; mas o mau serviço envia eles direto para fora"
-  },
-  {
-
-    "author" : "Daryl Bernstein",
-    "quote" : "Único cliente bom é o cliente feliz. Lembre-se: clientes felizes adoram gastar dinheiro"
-  },
-  {
-
     "author" : "Jean Rozwadowski",
     "quote" : "Devemos prometer somente aquilo que podemos entregar e entregar mais do que prometemos"
   },
   {
-
     "author" : "Georg Wilhelm",
     "quote" : "Nada de importante no mundo foi realizado sem paixão"
   },
   {
-
-    "author" : "Célia Chaim",
-    "quote" : "Quem tem a obrigação de visualizar o futuro não é o cliente"
-  },
-  {
-
     "author" : "Roland Barthes",
     "quote" : "Profissional nota 10 é aquele que tem 2 pontos de esforço, 3 pontos de talento e 5 pontos de caráter"
   },
   {
-
     "author" : "Dean Rusk",
     "quote" : "Uma das melhores maneiras de convencer os outros é ouvindo. Ouça todos"
   },
   {
-
     "author" : "Masaaki Imai",
     "quote" : "O importante é mudar sempre, mesmo que estejamos crescendo e ganhando o jogo"
   },
   {
-
-    "author" : "Barrie Hopson e Mike Scally",
-    "quote" : "Sempre que você vai encontrar um cliente você é a empresa"
-  },
-  {
-
     "author" : "Dave Weinbaum",
     "quote" : "Se não puder destacar-se pelo talento, vença pelo esforço"
   },
   {
-
     "author" : "Segundo Mandamento da TAM",
     "quote" : "Em busca do ótimo não se faz o bom"
   },
   {
-
     "author" : "Thomas Edison",
     "quote" : "Se existe uma forma de fazer melhor, descubra-a"
   },
   {
-
-    "author" : "Sérgio Almeida",
-    "quote" : "Fechar os olhos e os ouvidos para o cliente é uma loucura. É um suicídio empresarial"
-  },
-  {
-
     "author" : "Steve Jobs",
     "quote" : "Não deixe o ruído das opiniões dos outros abafar a sua própria voz interior"
   },
   {
-
     "author" : "John F. Kennedy",
     "quote" : "Somente os que ousam errar muito podem realizar muito"
   },
   {
-
     "author" : "General George S. Patton",
     "quote" : "Aceite os desafios para que possa sentir o sabor da vitória"
   },
   {
-
     "author" : "Louis Pasteur",
     "quote" : "A sorte favorece a mente preparada"
   },
   {
-
     "author" : "Karl Albrecht",
     "quote" : "Quando os momentos da verdade não são gerenciados, o serviço regride até a mediocridade"
   },
@@ -313,27 +305,14 @@
     "quote" : "Metas são necessárias não só para nos motivar, mas para nos manter vivos"
   },
   {
-
     "author" : "Earl Nightingate",
     "quote" : "Pessoas com meta têm sucesso pois sabem onde estão indo"
   },
   {
-
     "author" : "Marco Aurélio",
     "quote" : "A pessoa comum é exigente com os outros. A superior é exigente consigo mesmo"
   },
   {
-
-    "author" : "Sófocles",
-    "quote" : "Não há sucesso sem dificuldade"
-  },
-  {
-
-    "author" : "Carl Sewell",
-    "quote" : "Os clientes julgam os serviços pela maneira que são tratados por aqueles com quem tem contato"
-  },
-  {
-
     "author" : "Walter Gagehot",
     "quote" : "Um grande prazer na vida é fazer aquilo que dizem que você não é capaz de fazer"
   },
@@ -341,11 +320,6 @@
 
     "author" : "Eugene F. Ware",
     "quote" : "Toda glória advém de ousar começar"
-  },
-  {
-
-    "author" : "Bruce Hammonds",
-    "quote" : "Todas as pequenas coisas, juntas, formam uma base de clientes fiéis e mais lucrativas"
   },
   {
 
@@ -418,7 +392,6 @@
     "quote" : "Prefiro a angústia da busca do que a paz da acomodação"
   },
   {
-
     "author" : "F. Veiga",
     "quote" : "Os únicos limites das pessoas são o tamanho de suas ideias e o grau de sua dedicação"
   },
@@ -428,12 +401,6 @@
     "quote" : "Conhecimento não é aquilo que você sabe, mas o que você faz com aquilo que sabe"
   },
   {
-
-    "author" : "Rick Tate",
-    "quote" : "Fidelidade do cliente é a chave para lucratividade e crescimento futuro"
-  },
-  {
-
     "author" : "Provérbio ",
     "quote" : "Critica o que fazes, e não faças o que criticas"
   },
@@ -1697,22 +1664,6 @@
     "quote" : "Você nunca pode atravessar o oceano até que você tenha coragem de perder de vista a costa"
   },
   {
-    
-    "author" : "Carl Sewell",
-    "quote" : "O que pode sair errado? Essa é a pergunta a se fazer ao projetar os seus sistemas"
-  },
-  {
-    
-    "author" : "Benjamin Franklin",
-    "quote" : "Toma conta do teu negócio ou ele tomará conta de ti"
-  },
-  {
-    
-    "author" : "Sérgio Almeida",
-    "quote" : "A satisfação do cliente é uma relação entre o que ele viu e o que ele esperava ver"
-  },
-  {
-    
     "author" : "Provérbio espanhol",
     "quote" : "Perde tudo quem perde o momento certo"
   },
