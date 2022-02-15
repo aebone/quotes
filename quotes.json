@@ -1,5 +1,37 @@
 [
   {
+    "author" : "Sabedoria Oriental",
+    "quote" : "Ter paz na alma é a maior felicidade."
+  },
+  {
+    "author" : "Alexander Pope",
+    "quote" : "Sentir raiva é vingar-se das falhas dos outros em si próprio."
+  },
+  {
+    "author" : "Paulo Coelho",
+    "quote" : "O mundo está nas mãos daqueles que têm a coragem de sonhar e correr o risco de viver seus sonhos."
+  },
+  {
+    "author" : "Albert Einsten",
+    "quote" : "Aprenda com o ontem, viva o hoje, e acredite no amanhã."
+  },
+  {
+    "author" : "Humberto Acha",
+    "quote" : "Nada a não ser você mesmo pode lhe trazer paz."
+  },
+  {
+    "author" : "Gil Pinna",
+    "quote" : "Pior do que desistir daquilo que está distante é se desinteressar daquilo que está por perto."
+  },
+  {
+    "author" : "Chico Xavier",
+    "quote" : "A felicidade não entra em portas trancadas."
+  },
+  {
+    "author" : "",
+    "quote" : "Não se combate ódio com ódio, mas sim com amor."
+  },
+  {
     "author" : "",
     "quote" : "Em vez de temer os desafios que tem pela frente, confie mais nas suas capacidades para os superar."
   },
@@ -114,32 +146,22 @@
     "quote" : "Nada acontece a menos que sonhemos antes"
   },
   {
-
     "author" : "Walt Disney",
     "quote" : "É sempre divertido fazer o impossível"
   },
   {
-
     "author" : "Oscar Wilde",
     "quote" : "Experiência é o nome que cada um dá a seus erros"
   },
   {
-
     "author" : "Abraham Lincoln",
     "quote" : "Lembre sempre que a sua vontade de triunfar é mais importante do que qualquer outra coisa"
   },
   {
-
     "author" : "Anatole France",
     "quote" : "Prefiro os erros do entusiasmo à indiferença da sabedoria"
   },
   {
-
-    "author" : "Carter Brow",
-    "quote" : "Na realidade, vendas e serviços são inseparáveis"
-  },
-  {
-
     "author" : "Napoleão Bonaparte",
     "quote" : "A arte de ser ora audacioso, ora prudente, é a arte de vencer"
   },
@@ -193,10 +215,6 @@
     "quote" : "Existe o risco que você jamais pode correr. Existe o risco que você jamais pode deixar de correr"
   },
   {
-    "author" : "Henry Ford",
-    "quote" : "As duas coisas mais importantes não aparecem no balanço da empresa: sua reputação e o seu time"
-  },
-  {
     "author" : "Orison Swett Marden",
     "quote" : "A qualidade do seu trabalho tem tudo a ver com a qualidade da sua vida"
   },
@@ -213,33 +231,20 @@
     "quote" : "Persistência é irmã gêmea da excelência. Uma é mãe da qualidade, a outra a mãe do tempo"
   },
   {
-
     "author" : "Sam Walton",
     "quote" : "Comemore os seus sucessos. Veja com humor os seus fracassos"
   },
   {
-
     "author" : "Alfred Tennyson",
     "quote" : "Autorrespeito, autoconhecimento e autocontrole conduzem a vida ao poder supremo"
   },
   {
-
     "author" : "Henri Barbusse",
     "quote" : "É tentando o impossível que se chega à realização do possível"
   },
   {
-
-    "author" : "Bill Gates",
-    "quote" : "Toda empresa precisa ter gente que erra, que não tem medo de errar e que aprende com erro"
-  },
-  {
-
     "author" : "Ralph Waldo Emerson",
     "quote" : "A confiança em si mesmo é o primeiro segredo do sucesso"
-  },
-  {
-    "author" : "Peter Ducker",
-    "quote" : "Sempre que se vê um empreendimento de sucesso é porque alguém antes tomou uma decisão destemida"
   },
   {
     "author" : "Norman Vincent Peale",
@@ -294,11 +299,6 @@
     "quote" : "A sorte favorece a mente preparada"
   },
   {
-    "author" : "Karl Albrecht",
-    "quote" : "Quando os momentos da verdade não são gerenciados, o serviço regride até a mediocridade"
-  },
-  {
-
     "author" : "Robert H. Schuller",
     "quote" : "Metas são necessárias não só para nos motivar, mas para nos manter vivos"
   },
@@ -579,22 +579,14 @@
     "quote" : "Desperdiçar o próprio tempo é uma espécie de suicídio"
   },
   {
-    
-    "author" : "Lori Tansey",
-    "quote" : "A ética dá lucro para a empresa"
-  },
-  {
-    
     "author" : "George Santayana",
     "quote" : "O fanatismo consiste em redobrar esforços quando o objetivo for esquecido"
   },
-  {
-    
+  { 
     "author" : "Laurence J. Peter",
     "quote" : "Se você não sabe para onde vai, provavelmente terminará em algum outro lugar"
   },
-  {
-    
+  { 
     "author" : "Lao Tsu",
     "quote" : "Uma jornada de mil quilômetros começa pelo primeiro passo"
   },
@@ -862,30 +854,13 @@
     "author" : "Júlio Ribeiro",
     "quote" : "O medo de ousar, ser agressivo ou inovar fechou mais empresas do que a ousadia"
   },
-  {
-    
-    "author" : "H. Ross Perot",
-    "quote" : "Minha primeira mensagem é: escute, escute e escute o pessoal que faz o trabalho"
-  },
-  {
-    
+  {  
     "author" : "Franklin D. Roosvelt",
     "quote" : "A preguiça caminha tão devagar que a pobreza a alcança com rapidez"
   },
-  {
-    
+  { 
     "author" : "Henry David Thoreau",
     "quote" : "Vá na direção de seus sonhos. Viva a vida que você imaginou"
-  },
-  {
-    
-    "author" : "Marcos Gouv",
-    "quote" : "Não existe empresa nota 10 com empregados nota 5"
-  },
-  {
-    
-    "author" : "Quin Guanshu",
-    "quote" : "Perder tempo é um castigo insuportável"
   },
   {
     "author" : "Janis Joplin",
@@ -896,22 +871,10 @@
     "quote" : "Começar é a parte mais importante de qualquer trabalho"
   },
   {
-    
     "author" : "Nelson Mandela",
     "quote" : "Uma boa cabeça e um bom coração formam sempre uma combinação formidável"
   },
   {
-    
-    "author" : "Kaoru Ishikawa",
-    "quote" : "Se você não tem item de controle, você não tem gerência"
-  },
-  {
-    
-    "author" : "John Tschohl",
-    "quote" : "Os colaboradores evitam as queixas pois eles nunca foram instruídos a lidar com elas"
-  },
-  {
-    
     "author" : "Theodore Roosvelt",
     "quote" : "O maior prêmio que a vida oferece é trabalhar em algo que valha a pena"
   },
@@ -940,13 +903,7 @@
     "author" : "Paul Deschanel",
     "quote" : "Aqueles que nada fazem estão sempre dispostos a criticar os que fazem algo"
   },
-  {
-    
-    "author" : "Raimar Richers",
-    "quote" : "As empresas terão de adaptar-se às preferências individuais de cada consumidor ou sucumbirão"
-  },
-  {
-    
+  { 
     "author" : "Fiódor Dostoiévski",
     "quote" : "Sente-se sufocado aquele sem um objetivo de vida"
   },
@@ -977,11 +934,6 @@
   },
   {
     
-    "author" : "Phillip Crosby",
-    "quote" : "Quanto mais distante o administrador do administrado, menos eficiente a administração"
-  },
-  {
-    
     "author" : "Dalai Lama",
     "quote" : "A felicidade não é algo pronto. Ela vem de suas próprias ações"
   },
@@ -991,27 +943,18 @@
     "quote" : "Devemos seguir o exemplo dos rios: dão suas águas ao mar e nunca ficam vazios"
   },
   {
-    
     "author" : "Peter Drucker",
     "quote" : "Meu maior poder como consultor é ser ignorante e fazer algumas perguntas"
   },
   {
-    
     "author" : "Elbert Hubbard",
     "quote" : "O pior erro que você pode cometer em sua vida é ficar com medo de cometer algum erro"
   },
   {
-    
     "author" : "M. J. Babcock",
     "quote" : "O alvo na vida não deve ser ultrapassar os outros, mas sim ultrapassar a nós mesmos"
   },
   {
-    
-    "author" : "Terrell Harris",
-    "quote" : "Quando são cometidos lapsos nos serviços, as vendas caem"
-  },
-  {
-    
     "author" : "Publilius Syrus",
     "quote" : "Jamais prometa mais do que pode fazer"
   },
@@ -1022,11 +965,6 @@
   { 
     "author" : "George Washington",
     "quote" : "Não se comprometa a fazer o que não é capaz, mas preocupe-se em manter sua promessa"
-  },
-  {
-    
-    "author" : "Video Business Magazine",
-    "quote" : "Quando você atende ao telefone, a imagem da sua empresa é percebida do outro lado da linha"
   },
   {
     
@@ -1083,11 +1021,6 @@
     
     "author" : "Carmen Miranda",
     "quote" : "Na vida sempre fazemos escolhas. Ainda que escolhemos não escolher"
-  },
-  {
-    
-    "author" : "Sales and Marketing Magazine",
-    "quote" : "A melhor maneira de vender é facilitando a compra"
   },
   {
     
@@ -1245,22 +1178,10 @@
     "quote" : "Não há saber mais ou saber menos: há saberes diferentes"
   },
   {
-    
-    "author" : "Jack Welck",
-    "quote" : "O papel do gerente é de orientar, energizar e estimular"
-  },
-  {
-    
     "author" : "Booker T. Washington",
     "quote" : "Se você quiser se levantar, levante outra pessoa"
   },
   {
-    
-    "author" : "John Sewell",
-    "quote" : "Você pode tosquiar o carneiro por muitos anos, mas poderá esfolá-lo somente uma vez"
-  },
-  {
-    
     "author" : "H. W. Beecher",
     "quote" : "Quanto maior a dificuldade maior é o mérito de superá-la"
   },
@@ -1307,11 +1228,6 @@
     "quote" : "Um único pensamento pode revolucionar sua vida"
   },
   {
-    
-    "author" : "John Tschohl",
-    "quote" : "Todo o marketing da sua empresa pode ser anulado por um único empregado grosseiro"
-  },
-  {
     "author" : "Albert Schweitzer",
     "quote" : "Só serão felizes aqueles que procurarem e encontrarem um meio de servir"
   },
@@ -1338,10 +1254,6 @@
   {
     "author" : "Cesare Romiti",
     "quote" : "A busca da qualidade é um estado de espírito"
-  },
-  {
-    "author" : "Frank Petro",
-    "quote" : "O que é realmente necessário em empresa que presta serviço são pessoas que gostem de pessoas"
   },
   { 
     "author" : "Bertrand Russell",
@@ -1630,10 +1542,6 @@
     "author": "Aristóteles"
   },
   {
-    "quote": "Toda empresa precisa ter gente que erra, que não tem medo de errar e que aprende com erro.",
-    "author": "Bill Gates"
-  },
-  {
     "quote": "A confiança em si mesmo é o primeiro segredo do sucesso.",
     "author": "Ralph Waldo Emerson"
   },
@@ -1730,10 +1638,6 @@
     "author": "Henry John Kaiser"
   },
   {
-    "quote": "Na crise, existem aqueles que se abatem, sentam no chão e choram; e existem aqueles que fabricam e vendem lenços. Nós somos fabricantes de lenços.",
-    "author": "Abilio Diniz"
-  },
-  {
     "quote": "Levanto a minha voz, não para que eu possa gritar, mas para que aqueles sem voz possam ser ouvidos….",
     "author": "Malala Yousafzai"
   },
@@ -1776,10 +1680,6 @@
   {
     "quote": "Mesmo se você estiver no caminho certo será atropelado se ficar sentado nele.",
     "author": "Will Rogers"
-  },
-  {
-    "quote": "O fundamental é manter sempre a mesma obsessão em alcançar o sucesso. Ter sucesso não é apenas ter dinheiro, mas sim saber que uma ideia que parece impossível pode vir a ser uma empresa que irá quebrar paradigmas.",
-    "author": "Romero Rodrigues"
   },
   {
     "quote": "O jeito mais eficiente de fazer algo é fazendo.",
